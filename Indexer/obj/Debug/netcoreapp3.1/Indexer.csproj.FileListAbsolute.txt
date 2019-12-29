@@ -1,0 +1,22 @@
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Dev Ops\source\repos\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
